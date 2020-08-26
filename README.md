@@ -1,16 +1,18 @@
-### Hi there 👋
+### Mateus Louback
 
-<!--
-**mateuslouback/mateuslouback** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-Stack JavaScript Developer and UI Designer Brasileiro 🌎 Juiz de Fora - MG ✈️ Brasil
 
-Here are some ideas to get you started:
+### Encontre-me por aqui 🌎
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin Badge](https://img.shields.io/badge/-MateusLouback-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateuslouback/)](https://www.linkedin.com/in/mateuslouback/)
+[![Hotmail Badge](https://img.shields.io/badge/-mat.louback@hotmail.com-c14438?style=flat-square&logo=Hotmail&logoColor=white&link=mailto:mat.louback@hotmail.com)](mailto:mat.louback@hotmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-mateuslouback-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mateuslouback/?hl=pt-br)](https://www.instagram.com/mateuslouback/?hl=pt-br)
+
+
+💻 Atualmente trabalho com React, React Native e UI Design<br>
+📚 Estudando Testing Library<br>
+🎵 Love Music!<br>
+🚀 "Foguete não tem ré!"<br>
+
+Obrigado pela visita!
+</samp>
