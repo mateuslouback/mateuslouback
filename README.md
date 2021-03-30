@@ -8,8 +8,8 @@
 [![Instagram Badge](https://img.shields.io/badge/-mateuslouback-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mateuslouback/?hl=pt-br)](https://www.instagram.com/mateuslouback/?hl=pt-br)
 
 
-💻 Atualmente trabalho com React, React Native e UI Design<br>
-📚 Estudando Testing Library<br>
+💻 Atualmente trabalhando com React, React Native e UI Design<br>
+📚 Estudando Testing Library e Front-end Architecture <br>
 🎵 Love Music!<br>
 🚀 "Foguete não tem ré!"<br>
 
