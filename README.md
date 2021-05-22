@@ -1,6 +1,6 @@
 ### Mateus Louback
 
-💻 Full-Stack JavaScript Developer and UI Designer - Brasileiro 🌎 Juiz de Fora - MG ✈️ Brasil
+💻 UI Engineer - TypeScript - React - React Native - NodeJS | Brasileiro 🌎 Juiz de Fora - MG ✈️ Brasil
 
 ### Encontre-me por aqui 🌎
 
