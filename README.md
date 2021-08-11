@@ -9,7 +9,7 @@
 
 
 💻 Atualmente trabalhando com React, React Native e UI Design<br>
-📚 Estudando Testing Library e Front-end Architecture <br>
+📚 Estudando Testing Library, Front-end e Mobile Architecture <br>
 🎵 Love Music!<br>
 🚀 "Foguete não tem ré!"<br>
 
