@@ -1,6 +1,6 @@
 ### Mateus Louback
 
-💻 UI Engineer - TypeScript - React - React Native - NodeJS | Brasileiro 🌎 Juiz de Fora - MG ✈️ Brasil
+💻 UI Engineer - TypeScript - ReactJS - React Native - NodeJS | Brasileiro 🌎 Juiz de Fora - MG ✈️ Brasil
 
 ### Encontre-me por aqui 🌎
 
