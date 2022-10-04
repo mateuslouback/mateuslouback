@@ -11,18 +11,22 @@
 💻 Atualmente trabalhando com React Native e UI Design<br>
 📚 Estudando Testing Library e Mobile Architecture <br>
 🎵 Love Music!<br>
-🚀 "Foguete não tem ré!"<br>
+🚀 "Foguete não tem ré!"
+
+<br>
 
 Obrigado pela visita!
-</samp>
 
-<div align="center">
+<br>
+
+<div align="left">
   <a href="https://github.com/mateuslouback">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateuslouback&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuslouback&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
- <div align="left">
+
+<div align="left">
   <br>
     <p align="left"><b>Visitors Count</b></p>  
     <p align="left"><img align="left" src="https://profile-counter.glitch.me/{mateuslouback}/count.svg" /></p> 
