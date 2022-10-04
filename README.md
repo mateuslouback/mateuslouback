@@ -15,3 +15,10 @@
 
 Obrigado pela visita!
 </samp>
+
+ <div align="left">
+  <br>
+    <p align="left"><b>Visitors Count</b></p>  
+    <p align="left"><img align="left" src="https://profile-counter.glitch.me/{mateuslouback}/count.svg" /></p> 
+  <br>
+</div>
