@@ -9,9 +9,9 @@
 
 
 💻 Atualmente trabalhando com React Native e UI Design
-<br>
+
 📚 Estudando Testing Library e Mobile Architecture
-<br>
+
 🎵 Love Music!
 
 <br>
